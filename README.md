@@ -10,10 +10,10 @@ i really am happy i get to share this port with you guys and help you guys enjoy
 source code WILL be released soon, i just need to polish up things in the code (and this is ognna take like 5 months watch)
 
 ## How? How'd you fix the UI?
-using a custom made swf loader, called LCE-Flash. shockwave-flash turned into lce-flash. yes i made an entire swf thing for this project to work
+decompiled Iggy. this decompiled iggy source will become open-source in the future. it isnt the exact size of the real iggy, but it is a recompilable working iggy source that actually functions fine.
 
 ## does multiplayer work?
-um... currently at the time of writing this, no. i have the WSS server though
+no. mostlikely never will.
 
 ## more updates?
 yes
